@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maicol or fot you thehacker603.
+- 👋 Hi, I’m Maicol or for you thehacker603.
 - 👀 I’m interested in web app c++ python and other programming lenguage and i like motorsport.  
 - 🌱 I’m currently learning c++ at my school and i'm learning HTML and CSS by my own. 
 - 💞️ I’m looking to collaborate on intrestting progets that can theach me something new.
