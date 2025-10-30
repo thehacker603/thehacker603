@@ -1,17 +1,6 @@
 ### 👋 Hi there, I'm **Maicol** (aka *thehacker603*)
 
-💡 Young developer passionate about programming and motorsports.  
-🐍 Wrote my first Python program at age **11** — since then I never stopped coding!
-
----
-
-### 🔧 Tech Interests
-- Web development 🌐  
-- System programming (C++) ⚙️  
-- Python scripting 🐍  
-- Exploring new technologies & languages 🧠  
-
----
+💡 Young  student and developer passionate about programming and motorsports.  
 
 ### 💻 Languages & Frameworks
 - **HTML & CSS**  
@@ -22,36 +11,25 @@
 - **React** (basic)  
 
 ---
-
 ### 📚 Currently Learning  
 - ✅ Advanced JavaScript & React  
 - 🔜 Full-stack projects  
-
 ---
-
 ### 🤝 Looking to Collaborate On
 Projects that are:
 - Educational 📘    
 - Challenging and innovative 🚀
 - intresting ⚡
-
 ---
-
 ### 📫 Contact Me
 - Instagram: [@teofilo_maicol_](https://instagram.com/teofilo_maicol_)  
 - Email: **maicolteofilo66@gmail.com**
-
 ---
-
 ### ⚡ Fun Fact
 I created my first program in Python when I was **11 years old** 😄
-
 ---
-
 ### 📊 GitHub Stats
-
 ![thehacker603 GitHub stats](https://github-readme-stats.vercel.app/api?username=thehacker603&show_icons=true&theme=radical)
-
 
 ---
 
