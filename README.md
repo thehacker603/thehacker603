@@ -25,9 +25,7 @@ Projects that are:
 - Instagram: [@teofilo_maicol_](https://instagram.com/teofilo_maicol_)  
 - Email: **maicolteofilo66@gmail.com**
 ---
-### ⚡ Fun Fact
-I created my first program in Python when I was **11 years old** 😄
----
+
 ### 📊 GitHub Stats
 ![thehacker603 GitHub stats](https://github-readme-stats.vercel.app/api?username=thehacker603&show_icons=true&theme=radical)
 
